@@ -5,16 +5,16 @@ from telethon import events, Button
 from telethon.tl.custom import button
 from DEADLYSPAM import BOT0, BOT1, BOT2, BOT3, BOT4, BOT5, BOT6, BOT7, BOT8, BOT9, ALIVE_PIC, OWNER_ID, OWNER_NAME
 
-DEADLY_IMG = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/c6f99c0b68ff07439ed72.jpg"
+DEADLY_IMG = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/86f7674656cd38321316d.jpg"
 
 
 Deadly_Button = [
         [
-        Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/Deadly_spambot"),
-        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/Deadly_spam_bot")
+        Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/Earning_with_shivam_official"),
+        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/Angel_XHome")
         ],
         [
-        Button.url("• Rᴇᴘᴏ •", "https://github.com/Team-Deadly/DEADLY-SPAMBOT")
+        Button.url("• Rᴇᴘᴏ •", "https://github.com/Shivam892483/Spambot")
         ]
         ]
         
@@ -38,10 +38,10 @@ async def start(e):
         user_id = e.sender_id
         mention = f"[{name}](tg://user?id={user_id})"
         myOwner = f"[{OWNER_NAME}](tg://user?id={OWNER_ID})"
-        creator = f"[🇧𝙻𝙰𝚉𝙴](tg://user?id={5256676062})"
+        creator = f"[˹Sʜɪᴠᴀᴍ ꭙ Jᴀɪsᴡᴀʟ˼❤️](tg://user?id={5242142514})"
         DEADLY_ON = f"""
 ʜᴇʏ {mention},
-ᴛʜɪs ɪs ᴅᴇᴀᴅʟʏ sᴘᴀᴍʙᴏᴛ ᴘᴏᴡᴇʀᴇᴅ ʙʏ:- {creator}!
+ᴛʜɪs ɪs ᴄᴏᴍɪɴɢ sᴘᴀᴍʙᴏᴛ ᴘᴏᴡᴇʀᴇᴅ ʙʏ:- {creator}!
 
 ᴛʜɪs ʙᴏᴛ ᴏᴡɴᴇʀ:- {myOwner}
 

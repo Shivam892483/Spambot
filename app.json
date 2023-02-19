@@ -1,5 +1,5 @@
 {
-    "name": "Deadly Spam Bot",
+    "name": "Shivam Spam Bot",
     "description": "MOST POWERFUL + STABLE SPAM USERBOTS",
     "logo": "",
     "keywords": [
@@ -9,9 +9,9 @@
         "deadlySameer",
         "SpamBots"
     ],
-    "repository": "https://t.me/Deadly-Fighters",
-    "website": "https://t.me/Deadly-Fighters",
-    "success_url": "https://t.me/deadly-fighters",
+    "repository": "https://t.me/Angel_XHome",
+    "website": "https://t.me/Angel_XHome",
+    "success_url": "https://t.me/Angel_XHome",
     "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
@@ -84,7 +84,7 @@
         "required": true
       },
        "DATABASE_URL": {
-            "description": "postgres database url",
+            "description": "get this value from https://customer.elephantsql.com",
             "value": "",
             "required": true
         },

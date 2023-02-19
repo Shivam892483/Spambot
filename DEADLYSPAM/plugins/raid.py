@@ -36,13 +36,13 @@ async def spam(e):
             a = await e.client.get_entity(user)
             g = a.id
             if int(g) in Deadly:
-                text = f"I can't raid on @deadly_spam_bot's Owner"
+                text = f"I can't raid owner group bc"
                 await e.reply(text)
             elif int(g) == OWNER_ID:
-                text = f"This guy is a owner Of this Bots."
+                text = f"This guy is a owner Of this Bots bc."
                 await e.reply(text)
             elif int(g) in SUDO_USERS:
-                text = f"This guy is a sudo user."
+                text = f"This guy is a sudo user bc."
                 await e.reply(text) 
             else:
                 c = a.first_name
@@ -59,13 +59,13 @@ async def spam(e):
             b = await e.client.get_entity(a.sender_id)
             g = b.id
             if int(g) in DEADLYSPAM:
-                text = f"I can't raid on @deadly_spam_bot's Owner"
+                text = f"I can't raid , owner group bc"
                 await e.reply(text)
             elif int(g) == OWNER_ID:
-                text = f"This guy is a owner Of this Bots."
+                text = f"This guy is a owner Of this Bots bc."
                 await e.reply(text)
             elif int(g) in SUDO_USERS:
-                text = f"This guy is a sudo user."
+                text = f"This guy is a sudo user bc."
                 await e.reply(text)
             else:
                 c = b.first_name
@@ -129,7 +129,7 @@ async def _(e):
             user_idd = a.id
             user_id = int(user_idd)
             if int(user_id) in Deadly:
-                text = f" can't raid on @deadly_spam_bot's Owner."
+                text = f" can't raid , Owner group."
                 await e.reply(text)
             elif int(user_id) == OWNER_ID:
                 text = f"This guy is a owner Of this Bots."            
@@ -150,7 +150,7 @@ async def _(e):
             user_idd = umser.id
             user_id = int(user_idd)
             if int(user_id) in DEADLYSPAM:
-                text = f" can't raid on @deadly_spam_bot's Owner."
+                text = f" can't raid , Owner group."
                 await e.reply(text)
             elif int(user_id) == OWNER_ID:
                 text = f"This guy is a owner Of this Bots."
@@ -233,7 +233,7 @@ async def _(event):
              a = await event.client.get_entity(user)
              e = a.id
              if int(e) in DEADLYSPAM:
-                    text = f"I can't raid on @deadly_spam_bot's Owner"
+                    text = f"I can't raid , Owner group"
                     await event.reply(text)
              elif int(e) == OWNER_ID:
                 text = f"This guy is a owner Of this Bots."
@@ -302,7 +302,7 @@ async def spam(e):
             a = await e.client.get_entity(user)
             g = a.id
             if int(g) in Deadly:
-                text = f"I can't raid on @deadly_spam_bot's Owner"
+                text = f"I can't raid , Owner group"
                 await e.reply(text)
             elif int(g) == OWNER_ID:
                 text = f"This guy is a owner Of this Bots."
@@ -325,7 +325,7 @@ async def spam(e):
             b = await e.client.get_entity(a.sender_id)
             g = b.id
             if int(g) in DEADLYSPAM:
-                text = f"I can't raid on @deadly_spam_bot's Owner"
+                text = f"I can't raid , Owner group"
                 await e.reply(text)
             elif int(g) == OWNER_ID:
                 text = f"This guy is a owner Of this Bots."

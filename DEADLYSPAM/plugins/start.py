@@ -11,7 +11,7 @@ DEADLY_IMG = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/ad4762b990645
 Deadly_Button = [
         [
         Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/Earning_with_shivam_official"),
-        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/Angel_XHome")
+        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/Earn_without_investment01")
         ],
         [
         Button.url("• Rᴇᴘᴏ •", "https://github.com/Shivam892483/Spambot")

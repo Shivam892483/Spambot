@@ -9,9 +9,9 @@
         "deadlySameer",
         "SpamBots"
     ],
-    "repository": "https://t.me/Angel_XHome",
-    "website": "https://t.me/Angel_XHome",
-    "success_url": "https://t.me/Angel_XHome",
+    "repository": "https://t.me/Earn_without_investment01",
+    "website": "https://t.me/Earn_without_investment01",
+    "success_url": "https://t.me/Earn_without_investment01",
     "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",

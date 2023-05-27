@@ -25,7 +25,7 @@ DEAD_Help += f" `!raid` - to raid\n `!replyraid` - to active reply raid\n `!drep
 
 DEAD_Help += f" !pornspam - ɪ ᴡɪʟʟ ꜱᴜɢɢᴇꜱᴛ ᴅᴏɴ'ᴛ ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ😂 ↧\n\n"
 
-DEAD_Help += f"© @Angel_XHome\n"
+DEAD_Help += f"© @Earn_without_investment01\n"
 
 
 @BOT0.on(events.NewMessage(incoming=True, pattern='!help'))
@@ -37,7 +37,7 @@ async def help(event):
                                   buttons=[
         [
         Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/Earning_with_shivam_official"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/Angel_XRobot")
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/Earn_without_investment01")
         ] 
         ]
         )

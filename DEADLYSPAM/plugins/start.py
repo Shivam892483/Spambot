@@ -38,7 +38,7 @@ async def start(e):
         user_id = e.sender_id
         mention = f"[{name}](tg://user?id={user_id})"
         myOwner = f"[{OWNER_NAME}](tg://user?id={OWNER_ID})"
-        creator = f"[˹Sʜɪᴠᴀᴍ ꭙ Jᴀɪsᴡᴀʟ˼ 🫧](tg://user?id={5242142514})"
+        creator = f"[˹Sʜɪᴠᴀᴍ ꭙ Jᴀɪsᴡᴀʟ˼ 🫧](tg://user?id={1983049881})"
         DEADLY_ON = f"""
 ʜᴇʏ {mention},
 ᴛʜɪs ɪs ᴄᴏᴍɪɴɢ sᴘᴀᴍʙᴏᴛ ᴘᴏᴡᴇʀᴇᴅ ʙʏ:- {creator}!
